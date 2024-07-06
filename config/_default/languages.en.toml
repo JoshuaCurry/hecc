@@ -1,24 +1,24 @@
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Red Blowfish"
+title = "Higher Education Cyber Challenge"
 
 [params]
   displayName = "EN"
   isoCode = "en"
   rtl = false
   # logo = "img/logo.png"
-  description = "My awesome website"
+  description = "A cyber competition and networking event for UK university students"
   # copyright = "Copy, _right?_ :thinking_face:"
   dateFormat = "2 January 2006"
 
 [author]
-  name = "Red Blowfish"
+  name = "Higher Education Cyber Challenge"
   image = "img/avatar.png"
-  headline = "This is my website with my links"
+  headline = "A cyber competition and networking event for UK university students"
   bio = "A little bit about you"
    links = [
-     { link = "https://nunocoracao.github.io/blowfish/" },
-     { github = "https://github.com/nunocoracao/blowfish" },
-     { x-twitter = "https://twitter.com/burufugu" }
+     { link = "https://hecc.ecs.soton.ac.uk/" },
+     { github = "https://github.com/hecctf" },
+     { x-twitter = "https://twitter.com/hecctf" }
    ]
